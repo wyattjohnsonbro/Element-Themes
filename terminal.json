@@ -1,0 +1,24 @@
+{
+    "name": "Selenized black theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#8ae234",
+        "primary-color": "#729fcf",
+        "warning-color": "#ef2929",
+
+        "sidebar-color": "#2e3436",
+        "roomlist-background-color": "#2e3436",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#bbbbbb",
+        "roomlist-highlights-color": "#555753",
+        "roomlist-separator-color": "#555753",
+
+        "timeline-background-color": "#2e3436",
+        "timeline-text-color": "#ffffff",
+        "secondary-content": "#ffffff",
+        "tertiary-content": "#ffffff",
+        "timeline-text-secondary-color": "#bbbbbb",
+        "timeline-highlights-color": "#555753",
+        "reaction-row-button-selected-bg-color": "#729fcf"
+    }
+}
