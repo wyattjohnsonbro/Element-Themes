@@ -2,23 +2,23 @@
     "name": "Selenized black theme",
     "is_dark": true,
     "colors": {
-        "accent-color": "#8ae234",
-        "primary-color": "#729fcf",
-        "warning-color": "#ef2929",
+        "accent-color": "#70b433",
+        "primary-color": "#4695f7",
+        "warning-color": "#ed4a46",
 
-        "sidebar-color": "#2e3436",
-        "roomlist-background-color": "#2e3436",
+        "sidebar-color": "#181818",
+        "roomlist-background-color": "#252525",
         "roomlist-text-color": "#ffffff",
-        "roomlist-text-secondary-color": "#bbbbbb",
-        "roomlist-highlights-color": "#555753",
-        "roomlist-separator-color": "#555753",
+        "roomlist-text-secondary-color": "#b9b9b9",
+        "roomlist-highlights-color": "#3b3b3b",
+        "roomlist-separator-color": "#121212",
 
-        "timeline-background-color": "#2e3436",
-        "timeline-text-color": "#ffffff",
-        "secondary-content": "#ffffff",
-        "tertiary-content": "#ffffff",
-        "timeline-text-secondary-color": "#bbbbbb",
-        "timeline-highlights-color": "#555753",
-        "reaction-row-button-selected-bg-color": "#729fcf"
+        "timeline-background-color": "#181818",
+        "timeline-text-color": "#FFFFFF",
+        "secondary-content": "#FFFFFF",
+        "tertiary-content": "#FFFFFF",
+        "timeline-text-secondary-color": "#777777",
+        "timeline-highlights-color": "#252525",
+        "reaction-row-button-selected-bg-color": "#4695f7"
     }
 }
